@@ -16,4 +16,4 @@ Licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 #### C Sharp
 
-* library, programming - [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of WAMP (The Web Application Messaging Protocol).
+* [WampSharp](https://github.com/Code-Sharp/WampSharp) (library, programming): A C# implementation of WAMP (The Web Application Messaging Protocol).
