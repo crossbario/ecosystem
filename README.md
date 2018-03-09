@@ -8,7 +8,18 @@ The idea is a very light weight, easy to contribute place to collect everything 
 
 Licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
+**Quick edit notes:**
+
+Fork and file a PR adding a new line for your project like this:
+
+```
+* [link title](link URL) (tag1, tag2, tag3): A short description ending in a period.
+```
+
+Please try to reuse existing tags! If you need or propose a new section, please [use Markdown headings](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 ---
+
 
 ## The Crossbar.io ecosystem
 
