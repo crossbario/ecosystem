@@ -23,7 +23,7 @@ Please try to reuse existing tags! If you need or propose a new section, please 
 
 ## The Crossbar.io ecosystem
 
-Open Innovation is driven by diversity, transparency and collaboration, interconnecting all stakeholders with each other. That's how we define the crossbar.io ecosystem - a visualized global network of our customers, users, partners, suppliers, community and research & development.
+Open Innovation is driven by diversity, transparency and collaboration, interconnecting all stakeholders with each other. That's how we define the crossbar.io ecosystem - a visualized global network of our customers, users, partners, suppliers, organizations, communities, research and development as well as locations and projects.
 
 
 ### Customers
@@ -34,7 +34,13 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Suppliers
 
-### Community
+### Organizations
+
+### Communities
+
+### Locations
+
+### Projects
 
 ### Research
 
