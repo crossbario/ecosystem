@@ -27,24 +27,24 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 
 ### Customers
-* [Accenture](http://accenture.com) (immersive product content): [Accenture acquires Mackevision](http://www.mackevision.com/accenture-agrees-acquire-mackevision/)
+* [Accenture](http://accenture.com) (immersive product content): [Accenture acquires Mackevision](http://www.mackevision.com/accenture-agrees-acquire-mackevision/).
 * [Airbus](http://airbus.com) (defense, space): 
-* [Mackevision](http://mackevision.com) (visualization): computer generated imagery
+* [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
 * [Continental](http://continental.com) (automotive):
 * [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
 
 ### Users
-* [cekom GmbH](https://www.cekom.com/132/VOCANTO%EF%BF%BD-architecture.htm) (cms): vocanto server architecture
-* [HBM](https://hbm.com) (weighing solutions): [blacbird cooperation](https://hbm.com/en/6304/wtx120-industrial-and-legal-for-trade-weighing-terminal/)
-* [madpenguin.uk](https://madpenguin.uk) (web server): [message router](https://gareth.bult.co.uk/2017/09/22/its-a-mad-mad-world-2/)
+* [cekom GmbH](https://www.cekom.com/132/VOCANTO%EF%BF%BD-architecture.htm) (cms): vocanto server architecture.
+* [HBM](https://hbm.com) (weighing solutions): [blacbird cooperation](https://hbm.com/en/6304/wtx120-industrial-and-legal-for-trade-weighing-terminal/).
+* [madpenguin.uk](https://madpenguin.uk) (web server): [message router](https://gareth.bult.co.uk/2017/09/22/its-a-mad-mad-world-2/).
 
 ### Partners
 
 ### Suppliers
 
 ### Organizations
-* [Nasa](https://nasa.github.io/openmct/) (space): Open MCT (Mission Control Technologies)
-* [Tor Project](https://torproject.org) (privacy): [End-to-End Encrypted RPC/PubSub over Tor](https://meejah.ca/blog/end-to-end-encrypted-rpc-over-tor)
+* [Nasa](https://nasa.github.io/openmct/) (space): Open MCT (Mission Control Technologies).
+* [Tor Project](https://torproject.org) (privacy): [End-to-End Encrypted RPC/PubSub over Tor](https://meejah.ca/blog/end-to-end-encrypted-rpc-over-tor).
 
 ### Industries
 #### automotive
@@ -64,9 +64,9 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Research
 #### computer science
-* [prodysis]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with Audi, SAP, FAU
-* [FAU, FAPS](http://faps.fau.de) (manufacturing automation): cooperation
-* [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/)
+* [prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with Audi, SAP, FAU.
+* [FAU, FAPS](http://faps.fau.de) (manufacturing automation): cooperation.
+* [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 
 
 ### Development
