@@ -64,7 +64,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Research
 #### computer science
-* [prodysis]() (research): joint research project with Audi, SAP, FAU, Fortiss and Xenon
+* [prodysis]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with Audi, SAP, FAU
 * [FAU, FAPS](http://faps.fau.de) (manufacturing automation): cooperation
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/)
 
