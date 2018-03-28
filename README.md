@@ -32,6 +32,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
 * [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
+* [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
 * [Telstra](http://telstra.com) (telecommunication):
 * [Tensor7](http://tensor7.io) (startup incubator):
@@ -44,6 +45,10 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [madpenguin.uk](https://madpenguin.uk) (web server): [message router](https://gareth.bult.co.uk/2017/09/22/its-a-mad-mad-world-2/).
 
 ### Partners
+* [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
+* [Continental](http://continental.com) (automotive):
+* [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
+* [Symanto](http://symanto.net) (ai profiling): fan mobility.
 
 ### Suppliers
 
@@ -57,8 +62,11 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
 
 #### automotive
+* [Continental](http://continental.com) (automotive):
+
 #### biotech
 #### finance
+
 #### health
 #### logistics
 * [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
