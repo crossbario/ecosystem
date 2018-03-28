@@ -73,6 +73,10 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [FAU, FAPS](http://faps.fau.de) (manufacturing automation): cooperation.
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 
+### Resources
+#### cookbooks
+#### papers
+#### publications
 
 ### Development
 
