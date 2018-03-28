@@ -32,6 +32,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
 * [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
+* [parcIT](http://www.parcit.de/) (fintech):
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
 * [Telstra](http://telstra.com) (telecommunication):
@@ -40,9 +41,17 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
 
 ### Users
+* [AroFlo](https://aroflo.com/) (job and workflow management):
 * [cekom GmbH](https://www.cekom.com/132/VOCANTO%EF%BF%BD-architecture.htm) (cms): vocanto server architecture.
+* [Fraunhofer](https://www.fraunhofer.de/) (biotech):
+* [GetWellNetwork](https://www.getwellnetwork.com/) (clinical tools and systems):
 * [HBM](https://hbm.com) (weighing solutions): [blacbird cooperation](https://hbm.com/en/6304/wtx120-industrial-and-legal-for-trade-weighing-terminal/).
+* [Intusurg](https://www.intuitivesurgical.com/) (medicine) (automated surgery):
 * [madpenguin.uk](https://madpenguin.uk) (web server): [message router](https://gareth.bult.co.uk/2017/09/22/its-a-mad-mad-world-2/).
+* [Mozilla](https://www.mozilla.org/en-US/) (web browser):
+* [MumbaCloud](https://www.mumba.cloud/) (enterprise mobility solutions):
+* [Tieto](https://www.tieto.com/) (smart buildings):
+* [Voryx](http://voryx.net/) (business integration software):
 
 ### Partners
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
@@ -90,6 +99,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### cookbooks
 #### papers
 #### publications
+* [EMBEC & NBC 2017](http://embec2017.org/) (real time ecg monitoring):
 
 ### Development
 
