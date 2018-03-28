@@ -28,9 +28,11 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Customers
 * [Accenture](http://accenture.com) (immersive product content): [Accenture acquires Mackevision](http://www.mackevision.com/accenture-agrees-acquire-mackevision/).
-* [Airbus](http://airbus.com) (defense, space): 
-* [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
+* [Airbus](http://airbus.com) (defense, space):
+* [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
+* [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
+* [Symanto](http://symanto.net) (ai profiling): fan mobility.
 * [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
 
 ### Users
@@ -47,6 +49,9 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Tor Project](https://torproject.org) (privacy): [End-to-End Encrypted RPC/PubSub over Tor](https://meejah.ca/blog/end-to-end-encrypted-rpc-over-tor).
 
 ### Industries
+#### artificial intelligence
+* [Symanto](http://symanto.net) (ai profiling): fan mobility.
+
 #### automotive
 #### biotech
 #### finance
