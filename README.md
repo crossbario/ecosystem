@@ -99,7 +99,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### cookbooks
 #### papers
 #### publications
-* [EMBEC & NBC 2017](http://embec2017.org/) (real time ecg monitoring):
+* [EMBEC & NBC 2017](http://embec2017.org/) (medical engineering, biological engineering): real time ECG monitoring.
 
 ### Development
 
