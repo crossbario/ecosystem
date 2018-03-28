@@ -33,6 +33,9 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Continental](http://continental.com) (automotive):
 * [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
+* [Telstra](http://telstra.com) (telecommunication):
+* [Tensor7](http://tensor7.io) (startup incubator):
+* [Tieto](http://tieto.com) (digitalization):
 * [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
 
 ### Users
@@ -47,6 +50,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Organizations
 * [Nasa](https://nasa.github.io/openmct/) (space): Open MCT (Mission Control Technologies).
 * [Tor Project](https://torproject.org) (privacy): [End-to-End Encrypted RPC/PubSub over Tor](https://meejah.ca/blog/end-to-end-encrypted-rpc-over-tor).
+* [Zollhof](http://zollhof.de) (tech incubator): industrial internet, urban mobility, ai, blockchain.
 
 ### Industries
 #### artificial intelligence
