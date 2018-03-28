@@ -29,7 +29,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Customers
 * [Accenture](http://accenture.com) (immersive product content): [Accenture acquires Mackevision](http://www.mackevision.com/accenture-agrees-acquire-mackevision/).
 * [Airbus](http://airbus.com) (defense, space):
-* [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
+* [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
 * [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
@@ -45,7 +45,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [madpenguin.uk](https://madpenguin.uk) (web server): [message router](https://gareth.bult.co.uk/2017/09/22/its-a-mad-mad-world-2/).
 
 ### Partners
-* [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
+* [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
