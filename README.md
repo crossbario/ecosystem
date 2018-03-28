@@ -47,6 +47,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Partners
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
+* [Pixelmechanics](http://pixelmechanics.de) (digital transformation): ecommerce, cms, digital agency.
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
 
