@@ -75,13 +75,20 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Continental](http://continental.com) (automotive):
 
 #### biotech
-#### finance
+* [Fraunhofer](https://www.fraunhofer.de/) (biotech):
 
-#### health
+#### finance
+* [parcIT](http://www.parcit.de/) (fintech):
+
+#### medical
+* [GetWellNetwork](https://www.getwellnetwork.com/) (clinical tools and systems):
+* [Intusurg](https://www.intuitivesurgical.com/) (medicine) (automated surgery):
+
 #### logistics
 * [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 
 #### robotics
+* [Fraunhofer](https://www.fraunhofer.de/) (biotech):
 
 ### Communities
 
