@@ -109,6 +109,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### documentation
 * [Crossbar.io Documentation](https://crossbar.io/docs/) (reference documenation):
 * [Crossbar.io FAQs](https://crossbar.io/docs/FAQ/) (frequentyl asked questions):
+* [Crossbar.io Getting Started](https://crossbar.io/docs/Getting-Started/) (getting started guide):
 
 #### papers
 #### publications
