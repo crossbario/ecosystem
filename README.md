@@ -117,8 +117,8 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 #### mailing lists
 * [Crossbar.io Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/crossbario) (mailing list archive) Crossbar.io Mailing List
-* [WAMP Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/wampws) (mailing list archive) Crossbar.io Mailing List
-* [Autobahn Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/autobahnws) (mailing list archive) Crossbar.io Mailing List
+* [WAMP Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/wampws) (mailing list archive) WAMP Mailing List
+* [Autobahn Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/autobahnws) (mailing list archive) Autobahn Mailing List
 
 #### papers
 #### publications
