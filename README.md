@@ -105,6 +105,9 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Resources
 #### cookbooks
+#### documentation
+* [Crossbar.io Documentation](https://crossbar.io/docs/) (reference documenation):
+
 #### papers
 #### publications
 * [EMBEC & NBC 2017](http://embec2017.org/) (medical engineering, biological engineering): real time ECG monitoring.
