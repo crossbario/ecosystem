@@ -73,7 +73,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
 
 #### automotive
-* [Continental](http://continental.com) (automotive):
+* [Continental](http://continental.com) (co-pace, incubator): data market prototypes
 * [Genivi](http://genivi.org) (wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2)
 
 #### biotech
