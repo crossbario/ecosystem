@@ -116,9 +116,9 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Crossbar.io Getting Started](https://crossbar.io/docs/Getting-Started/) (getting started guide):
 
 #### mailing lists
-* [Crossbar.io Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/crossbario) (mailing list archive) Crossbar.io Mailing List
-* [WAMP Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/wampws) (mailing list archive) WAMP Mailing List
-* [Autobahn Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/autobahnws) (mailing list archive) Autobahn Mailing List
+* [Crossbar.io Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/crossbario) (mailing list archive) Crossbar.io Project Mailing List
+* [WAMP Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/wampws) (mailing list archive) WAMP Project Mailing List
+* [Autobahn Archive](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/autobahnws) (mailing list archive) Autobahn Project Mailing List
 
 #### papers
 #### publications
