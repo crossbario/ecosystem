@@ -91,6 +91,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Fraunhofer](https://www.fraunhofer.de/) (biotech):
 
 ### Communities
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/crossbar) (developer community):
 
 ### Locations
 
