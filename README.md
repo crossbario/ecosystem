@@ -63,8 +63,8 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Suppliers
 
 ### Organizations
-* [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2)
-* [Nasa](https://nasa.github.io/openmct/) (space): Open MCT (Mission Control Technologies).
+* [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2).
+* [Nasa](https://nasa.github.io/openmct/) (space agency): Open MCT (mission control technologies).
 * [Tor Project](https://torproject.org) (privacy): [End-to-End Encrypted RPC/PubSub over Tor](https://meejah.ca/blog/end-to-end-encrypted-rpc-over-tor).
 * [Zollhof](http://zollhof.de) (tech incubator): industrial internet, urban mobility, ai, blockchain.
 
@@ -74,7 +74,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 #### automotive
 * [Continental](http://continental.com) (co-pace, incubator): data market prototypes
-* [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2)
+* [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2).
 
 #### biotech
 * [Fraunhofer](https://www.fraunhofer.de/) (biotech):
