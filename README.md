@@ -92,6 +92,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Communities
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/crossbar) (developer community):
+* [Crossbar Google Group](https://groups.google.com/forum/#!forum/crossbario) (google groups):
 
 ### Locations
 
