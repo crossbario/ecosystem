@@ -56,7 +56,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Partners
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
-* [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://www.fortiss.org/ueber-uns/aktuelles/industrie-40/) - prototypes for industrial ecosystem platforms
+* [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://prodisys.fortiss.org) - prototypes for industrial ecosystem platforms
 * [Pixelmechanics](http://pixelmechanics.de) (digital transformation): ecommerce, cms, digital agency.
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
@@ -64,7 +64,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Suppliers
 
 ### Organizations
-* [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://www.fortiss.org/ueber-uns/aktuelles/industrie-40/) - prototypes for industrial ecosystem platforms
+* [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://prodisys.fortiss.org) - prototypes for industrial ecosystem platforms
 * [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2).
 * [Nasa](https://nasa.github.io/openmct/) (space agency): Open MCT (mission control technologies).
 * [Tor Project](https://torproject.org) (privacy): [End-to-End Encrypted RPC/PubSub over Tor](https://meejah.ca/blog/end-to-end-encrypted-rpc-over-tor).
@@ -103,10 +103,11 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Locations
 
 ### Projects
+* [prodisys](https://prodisys.fortiss.org/en) (industrial internet, open ecosystems, prototyping) developing prototypes for industrial platform ecosystems
 
 ### Research
 #### computer science
-* [prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with Audi, SAP, FAU.
+* [prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
 * [FAU, FAPS](http://faps.fau.de) (manufacturing automation): cooperation.
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 
