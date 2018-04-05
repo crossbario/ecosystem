@@ -114,11 +114,11 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Zollhof](http://zollhof.de) (tech incubator): industrial internet, urban mobility, ai, blockchain.
 
 ### Projects
-* [prodisys](https://prodisys.fortiss.org/en) (industrial internet, open ecosystems, prototyping) developing prototypes for industrial platform ecosystems
+* [Prodisys](https://prodisys.fortiss.org/en) (industrial internet, open ecosystems, prototyping) developing prototypes for industrial platform ecosystems
 
 ### Research
 #### computer science
-* [prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
+* [Prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
 * [FAU, FAPS](http://faps.fau.de) (manufacturing automation): [Prodisys](http://prodisys.fortiss.org) cooperation.
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 
