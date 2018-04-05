@@ -78,7 +78,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### automotive
 * [Continental](http://continental.com) (co-pace, incubator): data market prototypes
 * [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2).
-* [Xenon](http://xenon-automation.com//) (industrial automation, iot): [highly automated production systems](http://xenon-automation.com//index.php?ILNK=automotive)
+* [Xenon](http://xenon-automation.com//) (industrial automation, iot, automotive): [highly automated production systems](http://xenon-automation.com//index.php?ILNK=automotive)
 
 #### biotech
 * [Fraunhofer](https://www.fraunhofer.de/) (biotech):
@@ -108,6 +108,10 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 
 ### Locations
+* [Coworking Erlangen](http://coworking-erlangen.de/) (coworking, digitization): innovation space and network
+* [Coworking Nürnberg](http://coworking-nuernberg.de/) (coworking, digitization): innovation space and network
+* [Medical Valley Center](http://en.medical-valley-emn.de) (medical, startup incubator): digital innovation hub
+* [Zollhof](http://zollhof.de) (tech incubator): industrial internet, urban mobility, ai, blockchain.
 
 ### Projects
 * [prodisys](https://prodisys.fortiss.org/en) (industrial internet, open ecosystems, prototyping) developing prototypes for industrial platform ecosystems
