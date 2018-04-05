@@ -60,6 +60,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Pixelmechanics](http://pixelmechanics.de) (digital transformation): ecommerce, cms, digital agency.
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
+* [Xenon](http://xenon-automation.com//) (industrial automation, iot, industrial internet): highly automated manufacturing in automotive, electronics, medical and solar
 
 ### Suppliers
 
@@ -77,9 +78,14 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### automotive
 * [Continental](http://continental.com) (co-pace, incubator): data market prototypes
 * [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2).
+* [Xenon](http://xenon-automation.com//) (industrial automation, iot): [highly automated production systems](http://xenon-automation.com//index.php?ILNK=automotive)
 
 #### biotech
 * [Fraunhofer](https://www.fraunhofer.de/) (biotech):
+
+#### electronics
+* [Xenon](http://xenon-automation.com//) (industrial automation, iot, electronics): [production equipment for manufacturing electronic components](http://xenon-automation.com//index.php?ILNK=elektronik)
+
 
 #### finance
 * [parcIT](http://www.parcit.de/) (fintech):
@@ -87,6 +93,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### medical
 * [GetWellNetwork](https://www.getwellnetwork.com/) (clinical tools and systems):
 * [Intusurg](https://www.intuitivesurgical.com/) (medicine) (automated surgery):
+* [Xenon](http://xenon-automation.com//) (industrial automation, iot, medical): [precision manufacturing, quality assurance and packaging](http://xenon-automation.com//index.php?ILNK=medizintechnik)
 
 #### logistics
 * [Blackbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
