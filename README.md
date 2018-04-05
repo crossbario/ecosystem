@@ -60,7 +60,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Pixelmechanics](http://pixelmechanics.de) (digital transformation): ecommerce, cms, digital agency.
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
-* [Xenon](http://xenon-automation.com//) (industrial automation, iot, industrial internet): highly automated manufacturing in automotive, electronics, medical and solar
+* [Xenon](http://xenon-automation.com//) (industrial automation, iot): automated manufacturing in automotive, electronics, medical and solar
 
 ### Suppliers
 
@@ -115,7 +115,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Research
 #### computer science
 * [prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
-* [FAU, FAPS](http://faps.fau.de) (manufacturing automation): cooperation.
+* [FAU, FAPS](http://faps.fau.de) (manufacturing automation): [Prodisys](http://prodisys.fortiss.org) cooperation.
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 
 ### Resources
