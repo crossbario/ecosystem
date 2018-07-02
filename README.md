@@ -29,6 +29,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Customers
 * [Accenture](http://accenture.com) (immersive product content): [Accenture acquires Mackevision](http://www.mackevision.com/accenture-agrees-acquire-mackevision/).
 * [Airbus](http://airbus.com) (defense, space):
+* [Ambos.io](http://ambos.io) (logistics, hardware): communication infrastructure, data market pilot.
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
 * [Mackevision](http://mackevision.com) (visualization): computer generated imagery.
@@ -38,7 +39,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Telstra](http://telstra.com) (telecommunication):
 * [Tensor7](http://tensor7.io) (startup incubator):
 * [Tieto](http://tieto.com) (digitalization):
-* [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
+
 
 ### Users
 * [AroFlo](https://aroflo.com/) (job and workflow management):
@@ -52,6 +53,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [MumbaCloud](https://www.mumba.cloud/) (enterprise mobility solutions):
 * [Tieto](https://www.tieto.com/) (smart buildings):
 * [Voryx](http://voryx.net/) (business integration software):
+* [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
 
 ### Partners
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
