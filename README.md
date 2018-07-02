@@ -66,8 +66,6 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
 * [Xenon](http://xenon-automation.com//) (industrial automation, iot): automated manufacturing in automotive, electronics, medical and solar
 
-### Suppliers
-
 ### Organizations
 * [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://prodisys.fortiss.org) - prototypes for industrial ecosystem platforms
 * [Genivi Alliance](http://genivi.org) (open connectivity platform, wamp): [W3C collaboration WAMP proposal](https://at.projects.genivi.org/wiki/download/attachments/14976927/W3C%20-%20GENIVI%20Collaboration%202017%20AMM%20Seoul.ppt?version=1&modificationDate=1507698001000&api=v2).
@@ -128,6 +126,8 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Resources
 #### cookbooks
+* [Crossbar.io IOT Cookbook](https://github.com/crossbario/iotcookbook) (getting started documentation):
+
 #### documentation
 * [Crossbar.io Documentation](https://crossbar.io/docs/) (reference documenation):
 * [Crossbar.io FAQs](https://crossbar.io/docs/FAQ/) (frequentyl asked questions):
