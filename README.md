@@ -60,7 +60,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Ambos.io](http://ambos.io) (logistics, hardware): communication infrastructure, data market pilot
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
-* [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://prodisys.fortiss.org) - prototypes for industrial ecosystem platforms
+* [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://www.fortiss.org/forschung/projekte/prodisys/) - prototypes for industrial ecosystem platforms
 * [Pixelmechanics](http://pixelmechanics.de) (digital transformation): ecommerce, cms, digital agency.
 * [Record Evolution](http://record-evolution.de/) (data science): user experience, data analytics, data presentation.
 * [Symanto](http://symanto.net) (ai profiling): fan mobility.
@@ -122,7 +122,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Research
 #### computer science
-* [Prodisys]() (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
+* [Prodisys](https://www.fortiss.org/forschung/projekte/prodisys/) (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
 * [FAU, FAPS](http://faps.fau.de) (manufacturing automation): [Prodisys](http://prodisys.fortiss.org) cooperation.
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 
