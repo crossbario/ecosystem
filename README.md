@@ -44,12 +44,13 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 ### Users
 * [AroFlo](https://aroflo.com/) (job and workflow management):
 * [cekom GmbH](https://www.cekom.com/132/VOCANTO%EF%BF%BD-architecture.htm) (cms): vocanto server architecture.
+* [FinalDraft](http://finaldraft.com) (screenwriting software): 
 * [Fraunhofer](https://www.fraunhofer.de/) (biotech):
 * [GetWellNetwork](https://www.getwellnetwork.com/) (clinical tools and systems):
 * [HBM](https://hbm.com) (weighing solutions): [blacbird cooperation](https://hbm.com/en/6304/wtx120-industrial-and-legal-for-trade-weighing-terminal/).
 * [Intusurg](https://www.intuitivesurgical.com/) (medicine) (automated surgery):
 * [madpenguin.uk](https://madpenguin.uk) (web server): [message router](https://gareth.bult.co.uk/2017/09/22/its-a-mad-mad-world-2/).
-* [Mozilla](https://www.mozilla.org/en-US/) (web browser):
+* [Mozilla](https://www.mozilla.org/en-US/) (web browser): autobahn/python websocket implementation
 * [MumbaCloud](https://www.mumba.cloud/) (enterprise mobility solutions):
 * [Tieto](https://www.tieto.com/) (smart buildings):
 * [Voryx](http://voryx.net/) (business integration software):
