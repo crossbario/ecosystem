@@ -144,6 +144,14 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 
 ### Development
 
+#### Java (Android/Netty)
+
+* [Autobahn|Java](https://github.com/crossbario/autobahn-java) (library, programming): Client library providing WAMP on Java 8 (Netty) and Android, plus (secure) WebSocket for Android.
+
 #### C Sharp
 
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) (library, programming): A C# implementation of WAMP (The Web Application Messaging Protocol).
+
+#### Python
+
+* [Autobahn|Python](https://github.com/crossbario/autobahn-python) (library, programming): WebSocket & WAMP for Python on Twisted and asyncio.
