@@ -155,3 +155,11 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 #### Python
 
 * [Autobahn|Python](https://github.com/crossbario/autobahn-python) (library, programming): WebSocket & WAMP for Python on Twisted and asyncio.
+
+#### JavaScript
+
+* [Autobahn|JS](https://github.com/crossbario/autobahn-js) (library, programming): WAMP in JavaScript for Browsers and NodeJS
+
+#### C++
+
+* [Autobahn|C++](https://github.com/crossbario/autobahn-cpp) (library, programming): WAMP for C++ on Boost/ASIO.
