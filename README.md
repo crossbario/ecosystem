@@ -57,6 +57,7 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Zymr](http://zymr.com) (software development): [microservices framework](https://www.zymr.com/introducing-crossbar-io-microservices-framework/)
 
 ### Partners
+* [Ambos.io](http://ambos.io) (logistics, hardware): communication infrastructure, data market pilot
 * [Blacbird Technologies](http://blacbird.de) (iot, hardware, firmware): IoT hard- and firmware development.
 * [Continental](http://continental.com) (automotive):
 * [Fortiss](http://fortiss.org/) (cyber-physical systems, artificial intelligence): [prodisys](https://prodisys.fortiss.org) - prototypes for industrial ecosystem platforms
