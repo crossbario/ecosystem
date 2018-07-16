@@ -123,6 +123,11 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [Prodisys](https://www.fortiss.org/forschung/projekte/prodisys/) (research): [joint industrial internet research project](http://wi1.uni-erlangen.de/news-articles/neues-forschungsprojekt-prodisys-gestartet) with e.g. [Audi, SAP, FAU](https://prodisys.fortiss.org/en/partner/).
 * [FAU, FAPS](http://faps.fau.de) (manufacturing automation): [Prodisys](http://prodisys.fortiss.org) cooperation.
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
+#### industrial
+* [Audi AG](https://prodisys.fortiss.org/partner/) (production): utilizing data to improve production processes
+* [Continental Automotive GmbH](https://prodisys.fortiss.org/partner/) (production): utilizing production data
+* [SAP SE](https://prodisys.fortiss.org/partner/) (data analytics): asset intelligence network for machine specific meta data
+* [XENON Automation GmbH](https://prodisys.fortiss.org/partner/) (mechanical engineering): prototypes on data based services
 
 ### Resources
 #### cookbooks
