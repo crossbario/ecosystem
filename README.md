@@ -125,9 +125,9 @@ Open Innovation is driven by diversity, transparency and collaboration, intercon
 * [FAU, OSR](http://osr.cs.fau.de) (open source): [Open Source Research Group](https://osr.cs.fau.de/category/general/letters-to-stakeholders/).
 #### industrial
 * [Audi AG](https://prodisys.fortiss.org/partner/) (production): utilizing data to improve production processes
-* [Continental Automotive GmbH](https://prodisys.fortiss.org/partner/) (production): utilizing production data
+* [Continental Automotive](https://prodisys.fortiss.org/partner/) (production): utilizing production data
 * [SAP SE](https://prodisys.fortiss.org/partner/) (data analytics): asset intelligence network for machine specific meta data
-* [XENON Automation GmbH](https://prodisys.fortiss.org/partner/) (mechanical engineering): prototypes on data based services
+* [XENON Automation](https://prodisys.fortiss.org/partner/) (mechanical engineering): prototypes on data based services
 
 ### Resources
 #### cookbooks
